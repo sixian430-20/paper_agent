@@ -1,0 +1,14 @@
+# OpenAI 兼容 SDK — 用于调用智谱 GLM 接口与工具调度
+openai>=1.40.0
+
+# Pydantic — 工具参数校验与序列化
+pydantic>=2.0.0
+
+# 环境变量加载
+python-dotenv>=1.0.0
+
+# PDF 全文文字提取
+pypdf>=4.0.0
+
+# SerpAPI 联网学术检索（HTTP 调用）
+requests>=2.31.0
